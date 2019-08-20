@@ -1,7 +1,7 @@
 # stringEncoder
 
 ## Introduction
-This was my first major C project I worked on. Also the first major programing homework in college. The main purpose was to learn how to work with pointers and to get used with the C syntax.
+This was my first major C project I worked on. Also the first major programing homework in college. The main purpose was to get used with the C syntax and to learn how to work with pointers.
 
 ## Behavior
 This program encodes an input received from `stdin`. 
